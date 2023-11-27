@@ -87,6 +87,23 @@ BENEDICTA NAPHTHALINA ASSEFUAH
 ![why1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/491bc297-a5d3-452d-b838-06aa78fc2d4d)
 
 
+WHAT I LEARNT FROM THIS PROJECT
+
+In addition to offering technical insights, this project has taught me important lessons about problem-solving and the complex dance of creativity inside the boundaries of code.
+
+-An HTML document's structure was one of the first things I learned to be aware of. The structure of the original website had to be carefully examined in order to create a duplicate. By looking at the hierarchy of elements, like content sections, navigation bars, and headers, I was able to get ideas for structuring my project's HTML in a way that made sense. This experience highlighted how important semantic HTML tags are to improving a website's search engine optimization and accessibility.
+
+-In order to replicate the Computer Department website's aesthetic appeal, CSS was essential. To preserve visual coherence, I dug into the nuances of styling components, choosing suitable fonts, and making good use of color. Completing the project required a thorough understanding of CSS layout and positioning in order to replicate the webpage's design. To ensure that the cloned website could be adjusted to different screen sizes and devices, it was especially helpful to learn how to use Flexbox and Grid for responsive layouts.
+
+-The project also gave me the chance to use Git to incorporate version control into my workflow. Through the process of cloning the repository, making small, frequent commits, and modifying the code, I was able to understand how version control encourages teamwork and protects against accidental mistakes. Comprehending Git commands and workflows improved my capacity to collaborate on projects and made the development process more structured.
+
+In conclusion,participating in this project was a valuable learning experience that went beyond web development basics. It improved my problem-solving abilities, made me more meticulous, and gave me a sense of satisfaction to see code turned into a visually appealing and useful website. In addition to honing my technical abilities, this project stoked my passion for designing visually stunning and user-focused websites. Looking back on this adventure, I am eager to use my newly acquired abilities and knowledge on upcoming projects because I know that every obstacle presents a chance for development and education in the ever-evolving field of web development.
+
+
+
+
+
+
 
 
 
