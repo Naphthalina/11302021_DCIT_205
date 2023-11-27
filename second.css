@@ -1,0 +1,192 @@
+
+
+.logo1 {
+    height:50px;
+    width:300px;
+    margin-top:40px;
+    margin-bottom:50px;
+    margin-left:50px;
+    
+}
+
+.p {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.home,
+.fac,
+.about,
+.accademics,
+.registration {
+    margin-top:5px;
+    font-weight:bold;
+    font-size:20px;
+    display:inline-block;
+    list-style:none;
+    padding:10px 16px;
+
+}
+
+.home:hover{
+    text-decoration:underline;
+    cursor:pointer; 
+
+}
+
+.fac:hover{
+    text-decoration:underline;
+    cursor:pointer; 
+
+}
+
+.about:hover{
+    text-decoration:underline;
+    cursor:pointer; 
+
+}
+
+.accademics:hover{
+    text-decoration:underline;
+    cursor:pointer; 
+
+}
+
+.registration:hover{
+    text-decoration:underline;
+    cursor:pointer;
+    
+
+}
+
+.navbar{
+    width:86%;
+    display:flex;
+    margin:auto;
+    padding:10px 0;
+    align-items:center;
+    justify-content:space-between;
+}
+
+ul li a{
+    text-decoration:none;
+}
+    
+
+
+.p1,
+.p2,
+.p3{
+    font-weight:100;
+    margin-top:30px;
+    font-size:20px;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    line-height:30px;
+    
+}
+
+.p4{
+    font-size:50px;
+    margin-left:400px;
+    color:rgb(15, 15, 172);
+}
+
+.p5{
+    font-size:30px;
+    color:rgb(31, 31, 207);
+    margin-left:30px;
+    margin-top:20px;
+}
+
+.p7{
+    font-size:30px;
+    color:rgb(31, 31, 207);
+    margin-left:30px;
+    margin-top:70px;
+
+}
+.our-org{
+    font-size:30px;
+    color:rgb(31, 31, 207);
+    margin-left:30px;
+    margin-top:20px;
+}
+.get-to-know-us-right{
+    flex: 1;
+}
+.get-to-know-us-left{
+    display: flex;
+}
+.our-goals-left{
+ flex: 1;
+}
+
+.our-goals-right{
+    flex: 1;
+}
+
+
+.our-org-text,
+.our-goals-text{
+    font-weight:100;
+    margin-top:30px;
+    font-size:20px;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    margin-left:30px;
+    line-height:30px; 
+}
+
+
+.pic3{
+    margin-top:15px;
+    width:400px;
+    height:150px;
+    float:center;
+    border-radius:20px;
+    margin-left:400px;
+
+}
+
+.pic4{
+ margin-top:20px;
+width:600px;
+height:400px;
+float:right;
+
+}
+
+.pic5{
+    margin-top:80px;
+    width:600px;
+    height:450px;
+     float:left;
+}
+
+.get-to-know-us{
+display: flex;
+}
+
+.footer{
+    margin-top:110px;
+    display:flex;
+    background-color:rgb(30, 30, 144);
+    color:white;
+    padding:100px 15%;
+    margin-left:20px;
+    margin-right:15px;
+}
+
+.footer div{
+    text-align:center;
+}
+
+.col-2{
+    flex-grow:2;
+}
+
+.footer-text:hover{
+    text-decoration:underline;
+    cursor:pointer;
+}

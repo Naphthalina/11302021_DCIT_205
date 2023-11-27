@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <tittle> </tittle>
+
+    <link href="fifth.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div class="main">
+    <div class="navbar">
+
+        <img src="images/image 1.png" class="logo1" alt="...">
+
+        <ul>
+            <li class="home">
+                <a href="website.html">HOME</a>
+            </li>
+            
+            <li class="fac">
+                <a href="fourth.html">FACILITIES</a>
+            </li>
+    
+            <li class="accademics">
+                <a href="third.html">ACCADEMICS</a>
+            </li>
+    
+            <li class="registration">
+                <a href="fifth.html">REGISRATION</a>
+            </li>
+    
+    
+            <li class="about">
+                <a href="second.html">ABOUT</a>
+            </li>
+        </ul>
+      
+    </div>
+</div>
+
+<form action="#" method="post">
+
+    <p class="heading">Short Courses Registration Form</p>
+    <p class="form-texts">To sign up for the short courses offered by the University of Ghana Computer Science Department, please fill out this form.
+    </p>
+
+    <label for="surname">Surname:</label>
+    <input type="text" id="surname" name="surname" required>
+
+    <label for="firstName">First Name:</label>
+    <input type="text" id="firstName" name="firstName" required>
+
+    <label for="email">Email Address:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" name="phone" pattern="[0-9]{10}" required
+        title="Please enter a 10-digit phone number">
+
+    <label for="dob">Date of Birth:</label>
+    <input type="date" id="dob" name="dob" required>
+
+    <label for="courses">Choose a Course:</label>
+    <select id="courses" name="courses" required>
+        <option value="" disabled selected>Select a course</option>
+        <option value="computer-science">Computer Science</option>
+        <option value="information-technology">Information Technology</option>
+        <option value="software-engineering">Software Engineering</option>
+        <option value="database-management">Database Management</option>
+        <option value="cybersecurity">Cybersecurity</option>
+        <!-- Add more options as needed -->
+    </select>
+
+    <button type="submit">Submit</button>
+</form>
+
+
+</body>
+</html>
