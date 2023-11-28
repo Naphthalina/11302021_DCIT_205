@@ -56,51 +56,51 @@ Now that your project is configured, it can be developed. Modify, incorporate fe
 BENEDICTA NAPHTHALINA ASSEFUAH
 11302021
 
-##HOME PAGE
+###HOME PAGE
 
 ![home1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/eb742b0e-67c9-4d58-8739-86888bfd51fa)
 ![home2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/dcb2f458-3b11-44d8-965c-97e8d9a2bdc5)
 
-##ABOUT PAGE
+###ABOUT PAGE
 
 ![about1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/23258c80-571a-45bc-b501-3197849958f5)
 ![about2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/f47deb8f-2b6d-4b18-830c-a06a29245738)
 ![about3](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/cc80f5b7-ca62-44ac-9fa2-b0e0ac70671e)
 
-##FACILITIES PAGE
+###FACILITIES PAGE
 
 ![fac1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/f1719061-cd48-4100-a285-f679c30f94dc)
 ![fac2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/b7d64363-ff97-4eca-930e-9dbc00041ba5)
 ![fac3](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/a79e099c-8743-4166-a4a5-ce2cfc2dcad1)
 ![fac4](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/0773b89b-b371-4372-9ec1-02d8731bae6e)
 
-##ACCADEMICS PAGE
+###ACCADEMICS PAGE
 
 ![aca1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/39fce49e-7cc8-48ae-af55-4bd11be25844)
 ![aca2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/9cf6edf5-4ddf-432b-8f80-ef713f44f5da)
 
-##REGISTRATION PAGE
+###REGISTRATION PAGE
 
 ![registration](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/a10373d3-4efb-463a-9cc4-95102ad61e15)
 
-##LOCATION PAGE
+###LOCATION PAGE
 
 ![map1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/57106238-c99f-4368-bc62-faa89ccfef1e)
 ![map2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/ac344ce9-a7bb-4810-b9c2-32886ac1be71)
 
-##COMPLAINT FORM PAGE
+###COMPLAINT FORM PAGE
 
 ![complain1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/dd1de24c-cd9a-473e-aefc-7c10de6f4d6b)
 ![complain2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/e541c2f5-2fca-4d8f-ab42-d821f5c159bb)
 
-##SUCCESS STORIES PAGE
+###SUCCESS STORIES PAGE
 
 ![success1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/d4d3c090-da0f-43f9-894a-c6de371cfae2)
 ![success2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/4e25515e-9de2-48f0-83c3-96b40e869efb)
 ![success3](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/d558a07d-c41d-417b-b519-60f88c4016ea)
 ![success4](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/77821e90-629e-48bc-96cd-b2bd82cbbf0b)
 
-##UNDERGRADUATE COURSES PAGE
+###UNDERGRADUATE COURSES PAGE
 
 ![undergra1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/83cf9b7e-1340-4e4c-beda-6b0a430e2f6a)
 ![undergra2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/80af6165-51cf-4fa0-81e2-05cd61544d3b)
@@ -110,7 +110,7 @@ BENEDICTA NAPHTHALINA ASSEFUAH
 ![undergra6](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/9fb782fc-3b45-4497-ba00-a06c83b474f3)
 ![undergra7](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/ddeb33d0-e214-4690-98ce-fb37d6391fe8)
 
-##WHY STUDY THIS COURSE PAGE
+###WHY STUDY THIS COURSE PAGE
 
 ![why1](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/491bc297-a5d3-452d-b838-06aa78fc2d4d)
 ![why2](https://github.com/Naphthalina/11302021_DCIT_205/assets/150922615/6bb3fa21-966a-4b48-b8da-b7b11f2d0039)
